@@ -32,9 +32,17 @@
 | 🔊 **شرح صوتي** | لكل سؤال وكل إشارة |
 | 📴 **بدون إنترنت** | يعمل البرنامج كاملاً بدون اتصال |
 
-<div align="center">
-<img src="assets/series.jpg" width="820" alt="سلاسل الامتحان">
-</div>
+## 📸 صور من البرنامج
+
+<table>
+<tr>
+<td align="center" width="50%"><img src="assets/question.jpg" alt="سؤال من سلسلة امتحان"><br><b>سؤال بنفس طريقة الامتحان الرسمي</b><br><sub>اختر الجواب بالأزرار 1 إلى 4، مع مؤقت وشرح صوتي</sub></td>
+<td align="center" width="50%"><img src="assets/lesson.jpg" alt="درس علامات المنع"><br><b>الدروس النظرية</b><br><sub>كل إشارة بصورة حقيقية وشرح صوتي</sub></td>
+</tr>
+<tr>
+<td align="center" colspan="2"><img src="assets/series.jpg" width="600" alt="سلاسل الامتحان"><br><b>19 سلسلة امتحان</b><br><sub>مع حفظ أفضل نتيجة لكل سلسلة</sub></td>
+</tr>
+</table>
 
 ## ⬇️ التحميل
 
